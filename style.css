@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: grid;
+    place-items: center;
+}
+
+#map {
+    width: 800px;
+    height: 700px;
+}
+
+.mapboxgl-popup {
+    max-width: 500px;
+    font: 12px/20px;
+}
